@@ -1,0 +1,1089 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="HAC101_0001" xml:space="preserve">
+    <value>Cannot load spare cargo. Please select another one.</value>
+  </data>
+  <data name="HAC103_0001" xml:space="preserve">
+    <value>Item was added.</value>
+  </data>
+  <data name="HAC103_0002" xml:space="preserve">
+    <value>Equipment Arrival Time should be within Workdate and Shift.</value>
+  </data>
+  <data name="HAC105_0001" xml:space="preserve">
+    <value>This cargo was already loaded. Please select another one.</value>
+  </data>
+  <data name="HAC105_0010" xml:space="preserve">
+    <value>Please input MT and QTY in case of break bulk.</value>
+  </data>
+  <data name="HAC105_0011" xml:space="preserve">
+    <value>Please input MT in case of dry bulk.</value>
+  </data>
+  <data name="HAC105_0012" xml:space="preserve">
+    <value>Please input MT in case of dry bulk.</value>
+  </data>
+  <data name="HAC105_0013" xml:space="preserve">
+    <value>Loading dry bulk: Act MT must be greater than 0.</value>
+  </data>
+  <data name="HAC105_0015" xml:space="preserve">
+    <value>Please input Loose Bag Type in case there exists Loose Bag Amount.</value>
+  </data>
+  <data name="HAC105_0002" xml:space="preserve">
+    <value>Shipping note is not confirmed. This cargo cannot load.</value>
+  </data>
+  <data name="HAC105_0003" xml:space="preserve">
+    <value>Please input end time in case of Return to shipper.</value>
+  </data>
+  <data name="HAC105_0004" xml:space="preserve">
+    <value>Please input lorry number in case of Return to shipper.</value>
+  </data>
+  <data name="HAC105_0005" xml:space="preserve">
+    <value>Do you want to auto deallocate ?</value>
+  </data>
+  <data name="HAC105_0006" xml:space="preserve">
+    <value>Loading break bulk: Act MT and QTY must be greater than 0.</value>
+  </data>
+  <data name="HAC105_0007" xml:space="preserve">
+    <value>Loading cancel amount must be equal or less than Act amount.</value>
+  </data>
+  <data name="HAC105_0008" xml:space="preserve">
+    <value>Please input Shut-out location.</value>
+  </data>
+  <data name="HAC105_0009" xml:space="preserve">
+    <value>Please input Damage location.</value>
+  </data>
+  <data name="HAC105_0014" xml:space="preserve">
+    <value>Please input lorry number.</value>
+  </data>
+  <data name="HAC106_0001" xml:space="preserve">
+    <value>This cargo was already discharged. Please select another one.</value>
+  </data>
+  <data name="HAC106_0002" xml:space="preserve">
+    <value>Balance is zero. If this is over-landed amount, please select Indirect radio button and tick on Over-landed check box.</value>
+  </data>
+  <data name="HAC106_0003" xml:space="preserve">
+    <value>Please tick on Over-landed check box.</value>
+  </data>
+  <data name="HAC106_0004" xml:space="preserve">
+    <value>Delivery type is indirect. Please select Indirect radio button to proceed.</value>
+  </data>
+  <data name="HAC106_0005" xml:space="preserve">
+    <value>Please input lorry number.</value>
+  </data>
+  <data name="HAC106_0006" xml:space="preserve">
+    <value>D/O is not exist. This cargo cannot discharge.</value>
+  </data>
+  <data name="HAC106_0007" xml:space="preserve">
+    <value>Delivery type is direct. If this is over-landed amount, please tick on Over-landed check box.</value>
+  </data>
+  <data name="HAC106_0008" xml:space="preserve">
+    <value>Actutal amount should not exceed balance amount. If this is over-landed amount, please tick on Over-landed checkbox.</value>
+  </data>
+  <data name="HAC106_0009" xml:space="preserve">
+    <value>This is short-landed cargo. Do you want to save ?</value>
+    <comment>Confirm message</comment>
+  </data>
+  <data name="HAC112_0001" xml:space="preserve">
+    <value>Please input lorry number.</value>
+  </data>
+  <data name="HCM0001" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="HCM0002" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="HCM0003" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="HCM0004" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="HCM0005" xml:space="preserve">
+    <value>User ID</value>
+  </data>
+  <data name="HCM0006" xml:space="preserve">
+    <value>Continue</value>
+  </data>
+  <data name="HCM0007" xml:space="preserve">
+    <value>Program Exit</value>
+  </data>
+  <data name="HCM0008" xml:space="preserve">
+    <value>Error Message</value>
+  </data>
+  <data name="HCM0009" xml:space="preserve">
+    <value>PLUS Member LogIn</value>
+  </data>
+  <data name="HCM0010" xml:space="preserve">
+    <value>Log out</value>
+  </data>
+  <data name="HCM0011" xml:space="preserve">
+    <value>Goto</value>
+  </data>
+  <data name="HCM0012" xml:space="preserve">
+    <value>Error Message</value>
+  </data>
+  <data name="HCM0013" xml:space="preserve">
+    <value>OK</value>
+    <comment>OK button</comment>
+  </data>
+  <data name="HCM0014" xml:space="preserve">
+    <value>Cancel</value>
+    <comment>Cancel button</comment>
+  </data>
+  <data name="HCM0015" xml:space="preserve">
+    <value>Search</value>
+    <comment>Search button</comment>
+  </data>
+  <data name="HCM0016" xml:space="preserve">
+    <value>Exit</value>
+    <comment>Exit button</comment>
+  </data>
+  <data name="HCM0017" xml:space="preserve">
+    <value>F1</value>
+    <comment>F1 button</comment>
+  </data>
+  <data name="HCM0018" xml:space="preserve">
+    <value>F2</value>
+    <comment>F2 button</comment>
+  </data>
+  <data name="HCM0019" xml:space="preserve">
+    <value>F3</value>
+    <comment>F3 button</comment>
+  </data>
+  <data name="HCM0020" xml:space="preserve">
+    <value>F4</value>
+    <comment>F4 button</comment>
+  </data>
+  <data name="HCM0021" xml:space="preserve">
+    <value>F5</value>
+    <comment>F5 button</comment>
+  </data>
+  <data name="HCM0022" xml:space="preserve">
+    <value>F6</value>
+    <comment>F6 button</comment>
+  </data>
+  <data name="HCM0023" xml:space="preserve">
+    <value>F7</value>
+    <comment>F7 button</comment>
+  </data>
+  <data name="HCM0024" xml:space="preserve">
+    <value>F8</value>
+    <comment>F8 button</comment>
+  </data>
+  <data name="HCM0025" xml:space="preserve">
+    <value>F9</value>
+    <comment>F9 button</comment>
+  </data>
+  <data name="HCM0026" xml:space="preserve">
+    <value>Confirm</value>
+    <comment>Confirm button</comment>
+  </data>
+  <data name="HCM0027" xml:space="preserve">
+    <value>Invalid JPVC number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0028" xml:space="preserve">
+    <value>Invalid S/N number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0029" xml:space="preserve">
+    <value>Invalid G/R number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0030" xml:space="preserve">
+    <value>Invalid B/L number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0031" xml:space="preserve">
+    <value>Invalid D/O number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0032" xml:space="preserve">
+    <value>Invalid Lorry number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0033" xml:space="preserve">
+    <value>Invalid G/P number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0034" xml:space="preserve">
+    <value>Invalid driver number.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0035" xml:space="preserve">
+    <value>Invalid stevedore company.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0036" xml:space="preserve">
+    <value>Invalid trimming company.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0037" xml:space="preserve">
+    <value>Invalid delay code.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0038" xml:space="preserve">
+    <value>Invalid contractor.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0039" xml:space="preserve">
+    <value>Invalid requester.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0040" xml:space="preserve">
+    <value>Invalid commodity.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0041" xml:space="preserve">
+    <value>StartTime should be less than EndTime.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0042" xml:space="preserve">
+    <value>Invalid order of DateTime. It should be ATB &lt; ATW &lt; ATC &lt; ATU.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0043" xml:space="preserve">
+    <value>Invalid order of DateTime. It should be ETB &lt; ETW &lt; ETC &lt; ETU.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0044" xml:space="preserve">
+    <value>Invalid order of DateTime. It should be Hose On &lt; Commence &lt; Completion &lt; Hose Off Time.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0045" xml:space="preserve">
+    <value>Data already exist. Please check again.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0046" xml:space="preserve">
+    <value>Do you really want to delete this item ?</value>
+    <comment>Confirm message</comment>
+  </data>
+  <data name="HCM0047" xml:space="preserve">
+    <value>License has expired. Allow to continue ?</value>
+    <comment>Confirm Message</comment>
+  </data>
+  <data name="HCM0048" xml:space="preserve">
+    <value>Save successfully</value>
+    <comment>Alert Message</comment>
+  </data>
+  <data name="HCM0049" xml:space="preserve">
+    <value>Please input/select JPVC</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0050" xml:space="preserve">
+    <value>Please input/select GR</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0051" xml:space="preserve">
+    <value>Please input/select BL</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0052" xml:space="preserve">
+    <value>Please select BL/DO</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0053" xml:space="preserve">
+    <value>Please input/select DO</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0054" xml:space="preserve">
+    <value>Please input/select GP</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0055" xml:space="preserve">
+    <value>Please input/select Lorry.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0056" xml:space="preserve">
+    <value>Please input/select transporter</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0057" xml:space="preserve">
+    <value>Print</value>
+    <comment>Print button</comment>
+  </data>
+  <data name="HCM0058" xml:space="preserve">
+    <value>No data. Please try again.</value>
+    <comment>Alert Message</comment>
+  </data>
+  <data name="HCM0059" xml:space="preserve">
+    <value>Start Time and End Time should be within Work Date and Shift</value>
+    <comment>Alert Message</comment>
+  </data>
+  <data name="HCM0060" xml:space="preserve">
+    <value>{0} is a mandatory item</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0061" xml:space="preserve">
+    <value>Changes NOT saved. Commit changes ?</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM0062" xml:space="preserve">
+    <value>Retrieve</value>
+    <comment>Button</comment>
+  </data>
+  <data name="HCM0063" xml:space="preserve">
+    <value>Save</value>
+    <comment>Button</comment>
+  </data>
+  <data name="HCM0064" xml:space="preserve">
+    <value>Is this confirm final loading ?</value>
+  </data>
+  <data name="HCM0065" xml:space="preserve">
+    <value>Is this final discharging ?</value>
+  </data>
+  <data name="HCM0066" xml:space="preserve">
+    <value>Is this final Handling-In ?</value>
+  </data>
+  <data name="HCM0067" xml:space="preserve">
+    <value>Is this final Handling-Out ?</value>
+  </data>
+  <data name="HCM0068" xml:space="preserve">
+    <value>Is this final Rehandle Loading ?</value>
+  </data>
+  <data name="HCM0069" xml:space="preserve">
+    <value>Is this final Rehandle Handling-Out ?</value>
+  </data>
+  <data name="HCM0070" xml:space="preserve">
+    <value>Invalid package type.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HCM101_0001" xml:space="preserve">
+    <value>JPVC</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0002" xml:space="preserve">
+    <value>Vessel Name</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0003" xml:space="preserve">
+    <value>ETB</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0004" xml:space="preserve">
+    <value>Berth Location</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0005" xml:space="preserve">
+    <value>LOA</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0006" xml:space="preserve">
+    <value>ATB</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0007" xml:space="preserve">
+    <value>ETW</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0008" xml:space="preserve">
+    <value>wharfStart</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0009" xml:space="preserve">
+    <value>wharfEnd</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0010" xml:space="preserve">
+    <value>ATW</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0011" xml:space="preserve">
+    <value>ETC</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0012" xml:space="preserve">
+    <value>ATC</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0013" xml:space="preserve">
+    <value>ETU</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0014" xml:space="preserve">
+    <value>ATU</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0015" xml:space="preserve">
+    <value>Vessel</value>
+    <comment>LABEL</comment>
+  </data>
+  <data name="HCM101_0016" xml:space="preserve">
+    <value>Vsl Type</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM101_0017" xml:space="preserve">
+    <value>Vsl Type Name</value>
+    <comment>JPVC Search </comment>
+  </data>
+  <data name="HCM102_0001" xml:space="preserve">
+    <value>Find Delay Code</value>
+  </data>
+  <data name="HCM102_0002" xml:space="preserve">
+    <value>Delay Code</value>
+  </data>
+  <data name="HCM102_0003" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="HCM102_0004" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="HCM102_0005" xml:space="preserve">
+    <value>Accepted Delay</value>
+  </data>
+  <data name="HCM103_0001" xml:space="preserve">
+    <value>GR List</value>
+  </data>
+  <data name="HCM103_0002" xml:space="preserve">
+    <value>JPVC</value>
+  </data>
+  <data name="HCM103_0003" xml:space="preserve">
+    <value>SN No</value>
+  </data>
+  <data name="HCM103_0004" xml:space="preserve">
+    <value>GR No</value>
+  </data>
+  <data name="HCM103_0005" xml:space="preserve">
+    <value>G/R</value>
+  </data>
+  <data name="HCM103_0006" xml:space="preserve">
+    <value>Lorry</value>
+  </data>
+  <data name="HCM103_0007" xml:space="preserve">
+    <value>QTY</value>
+  </data>
+  <data name="HCM103_0008" xml:space="preserve">
+    <value>MT</value>
+  </data>
+  <data name="HCM103_0009" xml:space="preserve">
+    <value>M3</value>
+  </data>
+  <data name="HCM103_0010" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="HCM104_0001" xml:space="preserve">
+    <value>B/L List</value>
+  </data>
+  <data name="HCM104_0002" xml:space="preserve">
+    <value>JPVC</value>
+  </data>
+  <data name="HCM104_0003" xml:space="preserve">
+    <value>BL NO</value>
+  </data>
+  <data name="HCM104_0004" xml:space="preserve">
+    <value>B/L</value>
+  </data>
+  <data name="HCM104_0005" xml:space="preserve">
+    <value>D/O</value>
+  </data>
+  <data name="HCM104_0006" xml:space="preserve">
+    <value>MT</value>
+  </data>
+  <data name="HCM104_0007" xml:space="preserve">
+    <value>M3</value>
+  </data>
+  <data name="HCM104_0008" xml:space="preserve">
+    <value>QTY</value>
+  </data>
+  <data name="HCM104_0009" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="HCM105_0001" xml:space="preserve">
+    <value>JPB Driver List</value>
+  </data>
+  <data name="HCM105_0002" xml:space="preserve">
+    <value>Staff Name</value>
+  </data>
+  <data name="HCM105_0003" xml:space="preserve">
+    <value>Driver ID</value>
+  </data>
+  <data name="HCM105_0004" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="HCM106_0001" xml:space="preserve">
+    <value>JPB</value>
+  </data>
+  <data name="HCM106_0002" xml:space="preserve">
+    <value>Role</value>
+  </data>
+  <data name="HCM106_0003" xml:space="preserve">
+    <value>Role</value>
+  </data>
+  <data name="HCM106_0004" xml:space="preserve">
+    <value>Employee ID</value>
+  </data>
+  <data name="HCM106_0005" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="HCM107_0001" xml:space="preserve">
+    <value>Lorry List</value>
+  </data>
+  <data name="HCM107_0002" xml:space="preserve">
+    <value>JPVC</value>
+  </data>
+  <data name="HCM107_0003" xml:space="preserve">
+    <value>BL</value>
+  </data>
+  <data name="HCM107_0004" xml:space="preserve">
+    <value>Lorry No</value>
+  </data>
+  <data name="HCM107_0005" xml:space="preserve">
+    <value>Contractor</value>
+  </data>
+  <data name="HCM107_0006" xml:space="preserve">
+    <value>SN/BL</value>
+  </data>
+  <data name="HCM107_0007" xml:space="preserve">
+    <value>Lorry No</value>
+  </data>
+  <data name="HCM107_0008" xml:space="preserve">
+    <value>Driver</value>
+  </data>
+  <data name="HCM108_0001" xml:space="preserve">
+    <value>D/O List</value>
+  </data>
+  <data name="HCM108_0002" xml:space="preserve">
+    <value>JPVC</value>
+  </data>
+  <data name="HCM108_0003" xml:space="preserve">
+    <value>DO NO</value>
+  </data>
+  <data name="HCM108_0004" xml:space="preserve">
+    <value>B/L</value>
+  </data>
+  <data name="HCM108_0005" xml:space="preserve">
+    <value>D/O</value>
+  </data>
+  <data name="HCM108_0006" xml:space="preserve">
+    <value>MT</value>
+  </data>
+  <data name="HCM108_0007" xml:space="preserve">
+    <value>M3</value>
+  </data>
+  <data name="HCM108_0008" xml:space="preserve">
+    <value>QTY</value>
+  </data>
+  <data name="HCM109_0001" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="HCM109_0002" xml:space="preserve">
+    <value>Plan</value>
+  </data>
+  <data name="HCM109_0003" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="HCM109_0004" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="HCM109_0005" xml:space="preserve">
+    <value>Load</value>
+  </data>
+  <data name="HCM109_0006" xml:space="preserve">
+    <value>Discharge</value>
+  </data>
+  <data name="HCM110_0001" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="HCM110_0002" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="HCM112_0001" xml:space="preserve">
+    <value>Mechanical Equipment</value>
+  </data>
+  <data name="HCM112_0002" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="HCM112_0003" xml:space="preserve">
+    <value>EQU Type</value>
+  </data>
+  <data name="HCM112_0004" xml:space="preserve">
+    <value>Capacity</value>
+  </data>
+  <data name="HCM113_0001" xml:space="preserve">
+    <value>Working Area</value>
+  </data>
+  <data name="HCM113_0002" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="HCM113_0003" xml:space="preserve">
+    <value>Item</value>
+  </data>
+  <data name="HCM114_0001" xml:space="preserve">
+    <value>GR/BL List</value>
+  </data>
+  <data name="HCM114_0002" xml:space="preserve">
+    <value>GR/BL</value>
+  </data>
+  <data name="HCM114_0003" xml:space="preserve">
+    <value>JPVC</value>
+  </data>
+  <data name="HCM114_0004" xml:space="preserve">
+    <value>GR/BL</value>
+  </data>
+  <data name="HCM114_0005" xml:space="preserve">
+    <value>MT</value>
+  </data>
+  <data name="HCM114_0006" xml:space="preserve">
+    <value>M3</value>
+  </data>
+  <data name="HCM114_0007" xml:space="preserve">
+    <value>QTY</value>
+  </data>
+  <data name="HCM115_0001" xml:space="preserve">
+    <value>Gatepass Print</value>
+  </data>
+  <data name="HCM115_0002" xml:space="preserve">
+    <value>COM Port</value>
+  </data>
+  <data name="HCM115_0003" xml:space="preserve">
+    <value>Baud rate</value>
+  </data>
+  <data name="HCM115_0004" xml:space="preserve">
+    <value>Printer Settings</value>
+  </data>
+  <data name="HCM120_0001" xml:space="preserve">
+    <value>GatePass</value>
+  </data>
+  <data name="HCM120_0002" xml:space="preserve">
+    <value>JPVC</value>
+  </data>
+  <data name="HCM120_0003" xml:space="preserve">
+    <value>Cargo No</value>
+  </data>
+  <data name="HCM120_0004" xml:space="preserve">
+    <value>Lorry No</value>
+  </data>
+  <data name="HCM120_0005" xml:space="preserve">
+    <value>GatePass</value>
+  </data>
+  <data name="HCM120_0006" xml:space="preserve">
+    <value>Lorry No</value>
+  </data>
+  <data name="HCM120_0007" xml:space="preserve">
+    <value>GatePass List</value>
+  </data>
+  <data name="HCM120_0008" xml:space="preserve">
+    <value>Lorry List</value>
+  </data>
+  <data name="HPS101_0001" xml:space="preserve">
+    <value>This GR/BL/GP with/without this Lorry has been confirmed. Do you want to proceed ?</value>
+    <comment>Confirmation message.</comment>
+  </data>
+  <data name="HPS101_0002" xml:space="preserve">
+    <value>This DG cargo has not permitted yet. Do you still want to confirm Gate-In?</value>
+    <comment>Confirmation message.</comment>
+  </data>
+  <data name="HVO101_0001" xml:space="preserve">
+    <value>Vessel Operator Main</value>
+  </data>
+  <data name="HVO101_0002" xml:space="preserve">
+    <value>JPVC</value>
+  </data>
+  <data name="HVO101_0003" xml:space="preserve">
+    <value>Break</value>
+  </data>
+  <data name="HVO101_0004" xml:space="preserve">
+    <value>Dry</value>
+  </data>
+  <data name="HVO101_0005" xml:space="preserve">
+    <value>Liquid Operation</value>
+  </data>
+  <data name="HVO101_0006" xml:space="preserve">
+    <value>F/House for Loading</value>
+  </data>
+  <data name="HVO101_0007" xml:space="preserve">
+    <value>F/House for Discharging</value>
+  </data>
+  <data name="HVO101_0008" xml:space="preserve">
+    <value>MLA for Loading</value>
+  </data>
+  <data name="HVO101_0009" xml:space="preserve">
+    <value>MLA for Discharging</value>
+  </data>
+  <data name="HVO101_0010" xml:space="preserve">
+    <value>Vessel</value>
+  </data>
+  <data name="HVO101_0011" xml:space="preserve">
+    <value>Shifting</value>
+  </data>
+  <data name="HVO101_0012" xml:space="preserve">
+    <value>Jetty OPR</value>
+  </data>
+  <data name="HVO101_0013" xml:space="preserve">
+    <value>Delay</value>
+  </data>
+  <data name="HVO101_0014" xml:space="preserve">
+    <value>STV</value>
+  </data>
+  <data name="HVO101_0015" xml:space="preserve">
+    <value>D/Banking</value>
+  </data>
+  <data name="HVO106_0001" xml:space="preserve">
+    <value>Please input Hose Off Time when the operation is completed.</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO108_0001" xml:space="preserve">
+    <value>Second vessel must be different from mother vessel.</value>
+  </data>
+  <data name="HVO108_0002" xml:space="preserve">
+    <value>2nd ATU must be equal or less than 3rd ATB.</value>
+  </data>
+  <data name="HVO108_0003" xml:space="preserve">
+    <value>Please input JPVC3 information.</value>
+  </data>
+  <data name="HVO111_0001" xml:space="preserve">
+    <value>Rate should be greater than 0.</value>
+  </data>
+  <data name="HWC101_0001" xml:space="preserve">
+    <value>Please set location.</value>
+  </data>
+  <data name="HWC101_0002" xml:space="preserve">
+    <value>Please set location for damage cargo.</value>
+  </data>
+  <data name="HWC101_0003" xml:space="preserve">
+    <value>Please set location for shut-out cargo.</value>
+  </data>
+  <data name="HWC101_0004" xml:space="preserve">
+    <value>Please unset location.</value>
+  </data>
+  <data name="HWC101_0005" xml:space="preserve">
+    <value>Clearance status is not RELEASE. Do you want to proceed ?</value>
+  </data>
+  <data name="HWC101_0006" xml:space="preserve">
+    <value>This cargo cannot handle in because its delivery type is direct.</value>
+  </data>
+  <data name="HWC101_0007" xml:space="preserve">
+    <value>Please input end time in case of Return to shipper.</value>
+  </data>
+  <data name="HWC101_0008" xml:space="preserve">
+    <value>Please input lorry number in case of Return to shipper.</value>
+  </data>
+  <data name="HWC101_0009" xml:space="preserve">
+    <value>This cargo can not handle out because D/O number does not exist.</value>
+  </data>
+  <data name="HWC101_0010" xml:space="preserve">
+    <value>This cargo can not handle out because cargo type is Normal and category is export.</value>
+  </data>
+  <data name="HWC101_0011" xml:space="preserve">
+    <value>Please input handling-out amount.</value>
+  </data>
+  <data name="HWC101001_0001" xml:space="preserve">
+    <value>Actutal amount can not exceed balance amount. Please check again.</value>
+  </data>
+  <data name="HWC101001_0002" xml:space="preserve">
+    <value>This cell is unused area. Please select another one.</value>
+  </data>
+  <data name="HWC101001_0003" xml:space="preserve">
+    <value>This cell is rental area. Please select another one.</value>
+  </data>
+  <data name="HWC101002_0001" xml:space="preserve">
+    <value>Actual amount cannot exceed stacked amount. Please check again.</value>
+  </data>
+  <data name="HWC101002_0002" xml:space="preserve">
+    <value>Total actual amount should not exceed inputted amount. Please check again.</value>
+  </data>
+  <data name="HWC109_0001" xml:space="preserve">
+    <value>Cargo movement item does not exist.</value>
+  </data>
+  <data name="HWC109_0002" xml:space="preserve">
+    <value>MV Amount is zero. Please check again.</value>
+  </data>
+  <data name="HAC105_0016" xml:space="preserve">
+    <value>Please input Loose Bag Amount in case there exists Loose Bag Type.</value>
+  </data>
+  <data name="HAC105_0017" xml:space="preserve">
+    <value>You've inputted in both loading normal fields and loading cancel fields. All of these will be recored. Do you really want to continue ?</value>
+  </data>
+  <data name="HAC112_0002" xml:space="preserve">
+    <value>Please input Loose Bag Type in case there exists Loose Bag Amount.</value>
+  </data>
+  <data name="HAC112_0003" xml:space="preserve">
+    <value>Please input Loose Bag Amount in case there exists Loose Bag Type.</value>
+  </data>
+  <data name="HCM0071" xml:space="preserve">
+    <value>Invalid loose bag type.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HVO112_0001" xml:space="preserve">
+    <value>You can't delete it because it's requested from MSS.</value>
+  </data>
+  <data name="HVO112_0002" xml:space="preserve">
+    <value>You can't delete it because there is double banking info later than this.</value>
+  </data>
+  <data name="HVO112_0003" xml:space="preserve">
+    <value>You can't delete it because there is equipment setting later than this.</value>
+  </data>
+  <data name="HVO112_0004" xml:space="preserve">
+    <value>TEST</value>
+  </data>
+  <data name="HVO112_0005" xml:space="preserve">
+    <value>TEST</value>
+  </data>
+  <data name="HVO114_0001" xml:space="preserve">
+    <value>You can't delete it because there is STS info.</value>
+  </data>
+  <data name="HVO114_0002" xml:space="preserve">
+    <value>You can't delete it because there is STS info on 2nd vessel.</value>
+  </data>
+  <data name="HVO114_0003" xml:space="preserve">
+    <value>You can't delete it because there is equipment setting info.</value>
+  </data>
+  <data name="HVO114_0004" xml:space="preserve">
+    <value>You can't delete it because there is equipment setting info on 2nd vessel.</value>
+  </data>
+  <data name="HVO114_0005" xml:space="preserve">
+    <value>You can't delete it because there is shifting info later than this.</value>
+  </data>
+  <data name="HVO114_0006" xml:space="preserve">
+    <value>You can't delete it because there is shifting info on 2nd vessel later than this.</value>
+  </data>
+  <data name="HVO105_0001" xml:space="preserve">
+    <value>Wharf Mark To should be greater than sum of Wharf Mark From and LOA</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO106_0002" xml:space="preserve">
+    <value>DG for commodity {0} was not confirmed yet. Do you want to proceed it anyway?</value>
+    <comment>Confirmation Message</comment>
+  </data>
+  <data name="HCM114_0008" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="HVO106001_0001" xml:space="preserve">
+    <value>Hose On should be within shift time.</value>
+  </data>
+  <data name="HVO106001_0002" xml:space="preserve">
+    <value>Commence time should be within shift time.</value>
+  </data>
+  <data name="HVO106001_0003" xml:space="preserve">
+    <value>Commplete time should be within shift time.</value>
+  </data>
+  <data name="HVO106001_0004" xml:space="preserve">
+    <value>Hose Off should be within shift time.</value>
+  </data>
+  <data name="HCM0072" xml:space="preserve">
+    <value>Save successfully. Do you want to print Gate Pass for GP_no </value>
+    <comment>Confirmation message</comment>
+  </data>
+  <data name="HCM0073" xml:space="preserve">
+    <value>MT / M3 / QTY must be greater then 0 </value>
+    <comment>Confirmation message</comment>
+  </data>
+  <data name="HCM0074" xml:space="preserve">
+    <value>Lorry and Driver must belong to the same Transport Company.</value>
+    <comment>Invalid Lorry</comment>
+  </data>
+  <data name="HVO102_0001" xml:space="preserve">
+    <value>Wharf Mark End must be greater than sum of Wharf Mark Start and LOA</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO102_0002" xml:space="preserve">
+    <value>Wharf Start must be equal or greater than berth wharf start ({0})</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO102_0003" xml:space="preserve">
+    <value>Wharf End must be equal or less than berth wharf end ({0})</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO103_0001" xml:space="preserve">
+    <value>Data already exist. When Hatch No is the same, Start and End Time should not be overlaped.</value>
+    <comment>Validation message</comment>
+  </data>
+  <data name="HVO105_0002" xml:space="preserve">
+    <value>Wharf Start must be equal or greater than berth wharf start ({0})</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO105_0003" xml:space="preserve">
+    <value>Wharf End must be equal or less than berth wharf end ({0})</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO114_0007" xml:space="preserve">
+    <value>You can't delete it because there is ATW or ATC.</value>
+  </data>
+  <data name="HAC106_0010" xml:space="preserve">
+    <value>There is no permission of this cargo from customs. Do you want to go proceed to discharge ?</value>
+    <comment>Confirm message</comment>
+  </data>
+  <data name="HWC101_0012" xml:space="preserve">
+    <value>This cargo already handled-in. Please select another cargo.</value>
+  </data>
+  <data name="HVO102_0004" xml:space="preserve">
+    <value>Wharf Mark End must be greater than Wharf Mark Start.</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO105_0004" xml:space="preserve">
+    <value>Wharf Mark To should be greater than Wharf Mark.</value>
+    <comment>Validation Message</comment>
+  </data>
+  <data name="HVO106_0003" xml:space="preserve">
+    <value>Is this operation commpleted ?</value>
+    <comment>Confirmation Message</comment>
+  </data>
+  <data name="HVO106_0004" xml:space="preserve">
+    <value>Please input Hose On time.</value>
+  </data>
+  <data name="HVO106_0005" xml:space="preserve">
+    <value>Please input Commence time.</value>
+  </data>
+  <data name="HVO106_0006" xml:space="preserve">
+    <value>Please input Complete time.</value>
+  </data>
+  <data name="HVO106_0007" xml:space="preserve">
+    <value>You've inputted Hose Off. Is this operation completed ?</value>
+  </data>
+  <data name="HCM104_0010" xml:space="preserve">
+    <value>Shpr/Cnsne</value>
+  </data>
+  <data name="HVO104_0001" xml:space="preserve">
+    <value>EQU cannot be blank. </value>
+    <comment>Fix issue #0031427</comment>
+  </data>
+  <data name="HAC106_0011" xml:space="preserve">
+    <value>BBK cargo, Actual Qty has to be greater than 0, please re-input the amount.</value>
+  </data>
+  <data name="HVO105_1111" xml:space="preserve">
+    <value>Can not proceed! You have to unberth at old location first.</value>
+  </data>
+  <data name="HVO105_1112" xml:space="preserve">
+    <value>Time should be followed Prev ATB, Prev ATU, New ATB, ATW, ATC, New ATU.</value>
+  </data>
+  <data name="HVO110" xml:space="preserve">
+    <value>Cannot change ATB because it exists Shifting or Double Banking info.</value>
+  </data>
+  <data name="HCM117_0001" xml:space="preserve">
+    <value>Please input JPVC.</value>
+  </data>
+  <data name="HPS101_0010" xml:space="preserve">
+    <value>You must enter at least 3 characters to search Lorry.</value>
+  </data>
+  <data name="HCM00001111" xml:space="preserve">
+    <value>Please input GR number</value>
+  </data>
+  <data name="HCM00001112" xml:space="preserve">
+    <value>Please input DO number</value>
+  </data>
+  <data name="HCM00001113" xml:space="preserve">
+    <value>Please input GP number</value>
+  </data>
+  <data name="HCM0075" xml:space="preserve">
+    <value>This will be final loading, Please check final.</value>
+  </data>
+  <data name="HCM0076" xml:space="preserve">
+    <value>This will be final handling, Please check final.</value>
+  </data>
+</root>

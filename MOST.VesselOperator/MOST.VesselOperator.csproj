@@ -1,0 +1,429 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{549D40DD-12BA-4C1E-A18A-CC57549C1AC3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MOST.VesselOperator</RootNamespace>
+    <AssemblyName>MOST.VesselOperator</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>MPTS.VesselOperator</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="HVO106001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO106001.designer.cs">
+      <DependentUpon>HVO106001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO124.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO124.designer.cs">
+      <DependentUpon>HVO124.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO123.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO123.designer.cs">
+      <DependentUpon>HVO123.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO101001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO101001.designer.cs">
+      <DependentUpon>HVO101001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO122.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO122.designer.cs">
+      <DependentUpon>HVO122.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO121.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO121.designer.cs">
+      <DependentUpon>HVO121.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO120.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO120.designer.cs">
+      <DependentUpon>HVO120.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO119.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO119.designer.cs">
+      <DependentUpon>HVO119.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO118.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO118.designer.cs">
+      <DependentUpon>HVO118.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO117.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO117.designer.cs">
+      <DependentUpon>HVO117.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO114.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO114.designer.cs">
+      <DependentUpon>HVO114.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO113.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO113.designer.cs">
+      <DependentUpon>HVO113.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO108.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO108.designer.cs">
+      <DependentUpon>HVO108.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO103.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO103.designer.cs">
+      <DependentUpon>HVO103.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO107.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO107.designer.cs">
+      <DependentUpon>HVO107.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO104.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO104.designer.cs">
+      <DependentUpon>HVO104.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO106.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO106.designer.cs">
+      <DependentUpon>HVO106.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO101.designer.cs">
+      <DependentUpon>HVO101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO110.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO110.designer.cs">
+      <DependentUpon>HVO110.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO111.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO111.designer.cs">
+      <DependentUpon>HVO111.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO109.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO109.designer.cs">
+      <DependentUpon>HVO109.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO102.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO102.designer.cs">
+      <DependentUpon>HVO102.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO105.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO105.designer.cs">
+      <DependentUpon>HVO105.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO112.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO112.designer.cs">
+      <DependentUpon>HVO112.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVO125.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVO125.Designer.cs">
+      <DependentUpon>HVO125.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parm\HVO106001Parm.cs" />
+    <Compile Include="Parm\HVO124Parm.cs" />
+    <Compile Include="Parm\HVO123Parm.cs" />
+    <Compile Include="Parm\HVO101002Parm.cs" />
+    <Compile Include="Parm\HVO101001Parm.cs" />
+    <Compile Include="Parm\HVO122Parm.cs" />
+    <Compile Include="Parm\HVO121Parm.cs" />
+    <Compile Include="Parm\HVO120Parm.cs" />
+    <Compile Include="Parm\HVO119Parm.cs" />
+    <Compile Include="Parm\HVO118Parm.cs" />
+    <Compile Include="Parm\HVO109Parm.cs" />
+    <Compile Include="Parm\HVO117Parm.cs" />
+    <Compile Include="Parm\HVO114Parm.cs" />
+    <Compile Include="Parm\HVO113Parm.cs" />
+    <Compile Include="Parm\HVO112Parm.cs" />
+    <Compile Include="Parm\HVO111Parm.cs" />
+    <Compile Include="Parm\HVO102Parm.cs" />
+    <Compile Include="Parm\HVO110Parm.cs" />
+    <Compile Include="Parm\HVO106Parm.cs" />
+    <Compile Include="Parm\HVO107Parm.cs" />
+    <Compile Include="Parm\HVO108Parm.cs" />
+    <Compile Include="Parm\HVO105Parm.cs" />
+    <Compile Include="Parm\HVO104Parm.cs" />
+    <Compile Include="Parm\HVO103Parm.cs" />
+    <Compile Include="Parm\HVO125Parm.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="HVO106001.resx">
+      <DependentUpon>HVO106001.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO124.resx">
+      <DependentUpon>HVO124.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO123.resx">
+      <DependentUpon>HVO123.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO101001.resx">
+      <DependentUpon>HVO101001.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO122.resx">
+      <DependentUpon>HVO122.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO121.resx">
+      <DependentUpon>HVO121.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO120.resx">
+      <DependentUpon>HVO120.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO119.resx">
+      <DependentUpon>HVO119.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO118.resx">
+      <DependentUpon>HVO118.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO117.resx">
+      <DependentUpon>HVO117.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO114.resx">
+      <DependentUpon>HVO114.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO113.resx">
+      <DependentUpon>HVO113.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO108.resx">
+      <DependentUpon>HVO108.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO103.resx">
+      <DependentUpon>HVO103.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO107.resx">
+      <DependentUpon>HVO107.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO104.resx">
+      <DependentUpon>HVO104.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO106.resx">
+      <DependentUpon>HVO106.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO101.resx">
+      <DependentUpon>HVO101.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO110.resx">
+      <DependentUpon>HVO110.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO111.resx">
+      <DependentUpon>HVO111.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO109.resx">
+      <DependentUpon>HVO109.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO102.resx">
+      <DependentUpon>HVO102.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO105.resx">
+      <DependentUpon>HVO105.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO112.resx">
+      <DependentUpon>HVO112.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVO125.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HVO125.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Result\HVO106001Result.cs" />
+    <Compile Include="Result\HVO122Result.cs" />
+    <Compile Include="Result\HVO111Result.cs" />
+    <Compile Include="Result\HVO102Result.cs" />
+    <Compile Include="Result\HVO110Result.cs" />
+    <Compile Include="Result\HVO106Result.cs" />
+    <Compile Include="Result\HVO107Result.cs" />
+    <Compile Include="Result\HVO108Result.cs" />
+    <Compile Include="Result\HVO105Result.cs" />
+    <Compile Include="Result\HVO104Result.cs" />
+    <Compile Include="Result\HVO103Result.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Framework.Client\Framework.Client.csproj">
+      <Project>{EFA8BC2B-AB1C-4297-972A-5129A90785DB}</Project>
+      <Name>Framework.Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Common\Framework.Common.csproj">
+      <Project>{86A336BB-29CD-4F7E-A5BE-804C98808025}</Project>
+      <Name>Framework.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Controls\Framework.Controls.csproj">
+      <Project>{0A5EFC54-E023-46ED-8715-D3B547438AE5}</Project>
+      <Name>Framework.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Service.Provider\Framework.Service.Provider.csproj">
+      <Project>{E71E7988-CBC1-47A6-AB58-84A4A51548B4}</Project>
+      <Name>Framework.Service.Provider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.Client.Proxy\MOST.Client.Proxy.csproj">
+      <Project>{B85F2721-53F7-4B17-B5AA-4597E662B3F7}</Project>
+      <Name>MOST.Client.Proxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.Common\MOST.Common.csproj">
+      <Project>{BB94416E-3C84-4781-8F81-65EC0A84C857}</Project>
+      <Name>MOST.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsCE.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\Microsoft.WindowsCE.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Xml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

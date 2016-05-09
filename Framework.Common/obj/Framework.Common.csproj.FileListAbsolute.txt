@@ -1,0 +1,387 @@
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Debug\Framework.Common.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Debug\Framework.Common.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Release\Framework.Common.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Release\Framework.Common.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Release\Framework.Common.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Release\Framework.Common.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Debug\Framework.Common.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\bin\Debug\Framework.Common.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\bin\Release\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\bin\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\bin\Release\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\bin\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Common\obj\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Common\obj\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\obj\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Common\obj\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Release\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Release\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Release\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Release\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Debug\Framework.Common.ExceptionHandler.frmExceptionMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Debug\Framework.Common.ResourceManager.i18n.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Debug\Framework.Common.ResourceManager.MessageResource.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Debug\Framework.Common.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Common\obj\Debug\Framework.Common.pdb

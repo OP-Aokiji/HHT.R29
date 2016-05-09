@@ -1,0 +1,774 @@
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Controls.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Controls.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Common.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Common.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Controls.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Controls.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Common.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Common.pdb
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.dll
+C:\Documents and Settings\Administrator\Desktop\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Controls.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Controls.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Common.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Common.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Controls.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Controls.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Common.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Common.pdb
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.dll
+C:\Documents and Settings\admin\Desktop\PLUS_HHT_16-1-2013\PLUS_HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\bin\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSBVN\MPTS\Release_note\HHT\PLUS_HHT - Newest\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Controls\obj\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Controls\obj\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Controls\obj\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.Container.BaseForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.Container.TDialog.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.Container.TForm.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TCombobox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TDualListbox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TGrid.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.UserControls.TTextBox.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.ValidationHandler.frmValidationMsg.resources
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.csproj.GenerateResource.Cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Controls\obj\Debug\Framework.Controls.pdb

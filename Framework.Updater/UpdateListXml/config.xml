@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLUS_HHT_Config>
+  <serviceURL active="yes" serverType="serviceProvider">
+    <url>http://192.168.123.100:9081/JPBi-MPTS-Web/services/Facade</url>
+  </serviceURL>  
+	<serviceURL active="no" serverType="HTTP">
+		<url>http://localhost:9081/JPBi-MPTS-Web/PlusHHT/</url>
+		<fileType>XML</fileType>
+		<filename>updatelist.xml</filename>
+	</serviceURL>
+	<serviceULR active="yes" serverType="FTP">
+		<serverIP>211.189.68.223</serverIP>
+		<serverPort>21</serverPort>
+		<userID>jpbi</userID>		
+		<password>1</password>
+		<connectionMode>passive</connectionMode>
+		<fileType>XML</fileType>
+		<filename>updatelist.xml</filename>
+		<remoteDir>HHTUpdate</remoteDir>
+	</serviceULR>
+</PLUS_HHT_Config>

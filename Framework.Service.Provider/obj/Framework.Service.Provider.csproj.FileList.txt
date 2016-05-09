@@ -1,0 +1,14 @@
+bin\Debug\Framework.Service.Provider.dll
+bin\Debug\Framework.Service.Provider.pdb
+bin\Debug\Framework.Common.dll
+bin\Debug\Framework.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Framework.Service.Provider.dll
+obj\Debug\Framework.Service.Provider.pdb
+bin\Release\Framework.Service.Provider.dll
+bin\Release\Framework.Service.Provider.pdb
+bin\Release\Framework.Common.dll
+bin\Release\Framework.Common.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Framework.Service.Provider.dll
+obj\Release\Framework.Service.Provider.pdb

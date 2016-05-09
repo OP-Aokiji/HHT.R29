@@ -1,0 +1,252 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0A5EFC54-E023-46ED-8715-D3B547438AE5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Framework.Controls</RootNamespace>
+    <AssemblyName>Framework.Controls</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>Framework.Controls</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;DESKTOP</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Container\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Container\BaseForm.Designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Container\TDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Container\TDialog.Designer.cs">
+      <DependentUpon>TDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Container\TForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Container\TForm.Designer.cs">
+      <DependentUpon>TForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Container\TTabPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Container\TTabPage.Designer.cs">
+      <DependentUpon>TTabPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IConstraint.cs" />
+    <Compile Include="IContainerControls.cs" />
+    <Compile Include="IForm.cs" />
+    <Compile Include="IObserver.cs" />
+    <Compile Include="IPanel.cs" />
+    <Compile Include="ISubject.cs" />
+    <Compile Include="NoticeMessage.cs" />
+    <Compile Include="UserControls\TButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TButton.designer.cs">
+      <DependentUpon>TButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TDateTimePicker.designer.cs">
+      <DependentUpon>TDateTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TDualListbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\TDualListbox.Designer.cs">
+      <DependentUpon>TDualListbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TCheckBox.Designer.cs">
+      <DependentUpon>TCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TCombobox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TCombobox.Designer.cs">
+      <DependentUpon>TCombobox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TGrid.Designer.cs">
+      <DependentUpon>TGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TLabel.Designer.cs">
+      <DependentUpon>TLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TListBox.Designer.cs">
+      <DependentUpon>TListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TMonthCalendar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TMonthCalendar.Designer.cs">
+      <DependentUpon>TMonthCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Container\TPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Container\TPanel.Designer.cs">
+      <DependentUpon>TPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Container\TTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Container\TTabControl.Designer.cs">
+      <DependentUpon>TTabControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IActionControl.cs" />
+    <Compile Include="IControls.cs" />
+    <Compile Include="INormalControls.cs" />
+    <Compile Include="ITextControls.cs" />
+    <Compile Include="ITransactionControls.cs" />
+    <Compile Include="UserControls\TRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TRadioButton.Designer.cs">
+      <DependentUpon>TRadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\TTextBox.Designer.cs">
+      <DependentUpon>TTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValidationHandler\frmValidationMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidationHandler\frmValidationMsg.Designer.cs">
+      <DependentUpon>frmValidationMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValidationHandler\ValidationError.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Container\BaseForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Container\TDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Container\TForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\TCombobox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TCombobox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\TDualListbox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TDualListbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\TGrid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\TTextBox.resx">
+      <DependentUpon>TTextBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidationHandler\frmValidationMsg.resx">
+      <DependentUpon>frmValidationMsg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DesignTimeAttributes.xmta" />
+    <None Include="UML\HHTControls.vsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Framework.Common\Framework.Common.csproj">
+      <Project>{86A336BB-29CD-4F7E-A5BE-804C98808025}</Project>
+      <Name>Framework.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Service.Provider\Framework.Service.Provider.csproj">
+      <Project>{E71E7988-CBC1-47A6-AB58-84A4A51548B4}</Project>
+      <Name>Framework.Service.Provider</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

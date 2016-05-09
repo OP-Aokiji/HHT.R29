@@ -1,0 +1,385 @@
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Client.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Client.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\bin\Release\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\obj\Release\Framework.Client.dll
+D:\MPTS\HHT\PLUS_HHT - Newest\Framework.Client\obj\Release\Framework.Client.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\HHT\PLUS_HHT - Newest backup 3-11-2014 CR OGA\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB PROJECT\MPTS\PLUS_HHT_OGA\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\HHT OGA\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\R23[EQ-OGA+VSR+LQ-OGA]\R23[EQ-OGA+VSR+LQ-OGA]\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\R24[ATB ISSUE]\R24\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\R24\R24\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VS2005_R24\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\VSL SHIFTING CR\VSL SHIFTING CR\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\bin\Release\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\obj\Release\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25\Framework.Client\obj\Release\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R25 - Copy\Framework.Client\obj\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Client.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Common.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Controls.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Common.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\bin\Debug\Framework.Controls.pdb
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\obj\Debug\Framework.Client.dll
+E:\TSB DATA\MPTS\MPTS_PROJECT\R26\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\obj\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R26\Framework.Client\obj\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\obj\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\obj\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28 20151126\R28\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\obj\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R26R\R28\R28\Framework.Client\obj\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT\R28\R28\R28\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\obj\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\obj\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R28\R28\Framework.Client\obj\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Release\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\obj\Release\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\obj\Release\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\obj\Release\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Client.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Common.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Controls.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Service.Provider.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Service.Provider.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Common.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\bin\Debug\Framework.Controls.pdb
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\obj\Debug\Framework.Client.dll
+D:\MPTS\MPTS SOURCE CODE\HHT Bin\R28\R29\R29\Framework.Client\obj\Debug\Framework.Client.pdb

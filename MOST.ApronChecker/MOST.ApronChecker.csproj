@@ -1,0 +1,320 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C596E614-E1AB-4A8C-994F-F492A15FC51F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MOST.ApronChecker</RootNamespace>
+    <AssemblyName>MOST.ApronChecker</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <DeployDirSuffix>MPTS.ApronChecker</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="HAC105002.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC105002.designer.cs">
+      <DependentUpon>HAC105002.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC105001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC105001.designer.cs">
+      <DependentUpon>HAC105001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC105003.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HAC105003.Designer.cs">
+      <DependentUpon>HAC105003.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC106001.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HAC106001.Designer.cs">
+      <DependentUpon>HAC106001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC106002.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HAC106002.Designer.cs">
+      <DependentUpon>HAC106002.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC111.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC111.designer.cs">
+      <DependentUpon>HAC111.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC109004.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC109004.designer.cs">
+      <DependentUpon>HAC109004.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC109003.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC109003.designer.cs">
+      <DependentUpon>HAC109003.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC109002.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC109002.designer.cs">
+      <DependentUpon>HAC109002.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC108.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC108.Designer.cs">
+      <DependentUpon>HAC108.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC104.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC104.designer.cs">
+      <DependentUpon>HAC104.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC105.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC105.designer.cs">
+      <DependentUpon>HAC105.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC101.designer.cs">
+      <DependentUpon>HAC101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC106.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC106.designer.cs">
+      <DependentUpon>HAC106.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC107.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC107.Designer.cs">
+      <DependentUpon>HAC107.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC109001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC109001.designer.cs">
+      <DependentUpon>HAC109001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC110.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC110.designer.cs">
+      <DependentUpon>HAC110.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAC112.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAC112.designer.cs">
+      <DependentUpon>HAC112.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parm\HAC105002Parm.cs" />
+    <Compile Include="Parm\HAC111Parm.cs" />
+    <Compile Include="Parm\HAC105001Parm.cs" />
+    <Compile Include="Parm\HAC110Parm.cs" />
+    <Compile Include="Parm\HAC109Parm.cs" />
+    <Compile Include="Parm\HAC108Parm.cs" />
+    <Compile Include="Parm\HAC107Parm.cs" />
+    <Compile Include="Parm\HAC101Parm.cs" />
+    <Compile Include="Parm\HAC106Parm.cs" />
+    <Compile Include="Parm\HAC105Parm.cs" />
+    <Compile Include="Parm\HAC112Parm.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="HAC105002.resx">
+      <DependentUpon>HAC105002.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC105001.resx">
+      <DependentUpon>HAC105001.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC105003.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HAC105003.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC106001.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HAC106001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC111.resx">
+      <DependentUpon>HAC111.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC109004.resx">
+      <DependentUpon>HAC109004.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC109003.resx">
+      <DependentUpon>HAC109003.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC109002.resx">
+      <DependentUpon>HAC109002.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC108.resx">
+      <DependentUpon>HAC108.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC104.resx">
+      <DependentUpon>HAC104.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC105.resx">
+      <DependentUpon>HAC105.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC101.resx">
+      <DependentUpon>HAC101.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC106.resx">
+      <DependentUpon>HAC106.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC107.resx">
+      <DependentUpon>HAC107.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC109001.resx">
+      <DependentUpon>HAC109001.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC110.resx">
+      <DependentUpon>HAC110.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAC112.resx">
+      <DependentUpon>HAC112.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Result\HAC105002Result.cs" />
+    <Compile Include="Result\HAC105001Result.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Result\HAC106Result.cs" />
+    <Compile Include="Result\HAC105Result.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Framework.Client\Framework.Client.csproj">
+      <Project>{EFA8BC2B-AB1C-4297-972A-5129A90785DB}</Project>
+      <Name>Framework.Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Common\Framework.Common.csproj">
+      <Project>{86A336BB-29CD-4F7E-A5BE-804C98808025}</Project>
+      <Name>Framework.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Controls\Framework.Controls.csproj">
+      <Project>{0A5EFC54-E023-46ED-8715-D3B547438AE5}</Project>
+      <Name>Framework.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Service.Provider\Framework.Service.Provider.csproj">
+      <Project>{E71E7988-CBC1-47A6-AB58-84A4A51548B4}</Project>
+      <Name>Framework.Service.Provider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.Client.Proxy\MOST.Client.Proxy.csproj">
+      <Project>{B85F2721-53F7-4B17-B5AA-4597E662B3F7}</Project>
+      <Name>MOST.Client.Proxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.Common\MOST.Common.csproj">
+      <Project>{BB94416E-3C84-4781-8F81-65EC0A84C857}</Project>
+      <Name>MOST.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.WHChecker\MOST.WHChecker.csproj">
+      <Project>{F517CDA1-9508-4F36-876B-FC9B1AFFD133}</Project>
+      <Name>MOST.WHChecker</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

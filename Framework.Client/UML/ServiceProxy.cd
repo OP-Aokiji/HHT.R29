@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Gulim" Size="9" />
+  <Class Name="Framework.Client.ServiceProxy.BaseServiceProxy">
+    <Position X="1.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>ServiceProxy\BaseServiceProxy.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ServiceDelegate" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Framework.Client.ServiceProxy.ServiceDelegate">
+    <Position X="1.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <FileName>ServiceProxy\ServiceDelegate.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAgAAAAEAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ServiceProxy" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Framework.Client.ServiceProxy.ServiceHomeCache">
+    <Position X="6.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>ServiceProxy\ServiceHomeCache.cs</FileName>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAABAAAIAAAAAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ServiceProxy" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Framework.Client.ServiceProxy.ServiceProxy">
+    <Position X="7" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>ServiceProxy\ServiceProxy.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

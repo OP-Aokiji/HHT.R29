@@ -1,0 +1,389 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BB94416E-3C84-4781-8F81-65EC0A84C857}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MOST.Common</RootNamespace>
+    <AssemblyName>MOST.Common</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <DeployDirSuffix>MOST.Common</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.ZEBRAPRINTLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Library\Interop.ZEBRAPRINTLib.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonParm\ContractorListParm.cs" />
+    <Compile Include="CommonParm\CargoGatePassParm.cs" />
+    <Compile Include="CommonParm\VSRCheckListParm.cs" />
+    <Compile Include="CommonParm\VSRDetailParm.cs" />
+    <Compile Include="CommonParm\RequesterListParm.cs" />
+    <Compile Include="CommonParm\UnclosedOperationParm.cs" />
+    <Compile Include="CommonParm\MegaStvTrmParm.cs" />
+    <Compile Include="CommonParm\GRBLListParm.cs" />
+    <Compile Include="CommonParm\WorkingAreaParm.cs" />
+    <Compile Include="CommonParm\EquipmentCodeParm.cs" />
+    <Compile Include="CommonParm\GatePassListParm.cs" />
+    <Compile Include="CommonParm\PartnerCodeListParm.cs" />
+    <Compile Include="CommonParm\DOListParm.cs" />
+    <Compile Include="CommonParm\LorryListParm.cs" />
+    <Compile Include="CommonParm\DelayCodeListParm.cs" />
+    <Compile Include="CommonParm\BLListParm.cs" />
+    <Compile Include="CommonParm\GRListParm.cs" />
+    <Compile Include="CommonParm\SearchJPVCParm.cs" />
+    <Compile Include="CommonParm\DriverListParm.cs" />
+    <Compile Include="CommonResult\CargoArrvDelvResult.cs" />
+    <Compile Include="CommonResult\ContractorListResult.cs" />
+    <Compile Include="CommonResult\LoadingList.cs" />
+    <Compile Include="CommonResult\VsrList.cs" />
+    <Compile Include="CommonResult\VSRCheckListResult.cs" />
+    <Compile Include="CommonResult\VSRDetailResult.cs" />
+    <Compile Include="CommonResult\RequesterListResult.cs" />
+    <Compile Include="CommonResult\GRListResult.cs" />
+    <Compile Include="CommonResult\MegaStvTrmResult.cs" />
+    <Compile Include="CommonResult\GRBLListResult.cs" />
+    <Compile Include="CommonResult\WorkingAreaResult.cs" />
+    <Compile Include="CommonResult\EquipmentCodeResult.cs" />
+    <Compile Include="CommonResult\GatePassListResult.cs" />
+    <Compile Include="CommonResult\PartnerCodeListResult.cs" />
+    <Compile Include="CommonResult\DOListResult.cs" />
+    <Compile Include="CommonResult\LorryListResult.cs" />
+    <Compile Include="CommonResult\DelayCodeListResult.cs" />
+    <Compile Include="CommonResult\BLListResult.cs" />
+    <Compile Include="CommonResult\CargoExportResult.cs" />
+    <Compile Include="CommonResult\SearchJPVCResult.cs" />
+    <Compile Include="CommonResult\DriverListResult.cs" />
+    <Compile Include="HCM119.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM119.designer.cs">
+      <DependentUpon>HCM119.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM120.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM120.designer.cs">
+      <DependentUpon>HCM120.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM118.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM118.Designer.cs">
+      <DependentUpon>HCM118.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM117.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM117.Designer.cs">
+      <DependentUpon>HCM117.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM116.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM116.Designer.cs">
+      <DependentUpon>HCM116.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM115.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM115.Designer.cs">
+      <DependentUpon>HCM115.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM114.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM114.Designer.cs">
+      <DependentUpon>HCM114.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM113.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM113.Designer.cs">
+      <DependentUpon>HCM113.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM112.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM112.Designer.cs">
+      <DependentUpon>HCM112.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM111.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM111.Designer.cs">
+      <DependentUpon>HCM111.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM110.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM110.Designer.cs">
+      <DependentUpon>HCM110.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM109.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM109.designer.cs">
+      <DependentUpon>HCM109.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM101.Designer.cs">
+      <DependentUpon>HCM101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM102.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM102.Designer.cs">
+      <DependentUpon>HCM102.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM103.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM103.Designer.cs">
+      <DependentUpon>HCM103.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM104.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM104.Designer.cs">
+      <DependentUpon>HCM104.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM105.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM105.Designer.cs">
+      <DependentUpon>HCM105.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM106.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM106.Designer.cs">
+      <DependentUpon>HCM106.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM107.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM107.Designer.cs">
+      <DependentUpon>HCM107.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM108.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HCM108.Designer.cs">
+      <DependentUpon>HCM108.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM120001.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HCM120001.Designer.cs">
+      <DependentUpon>HCM120001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HCM120002.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HCM120002.Designer.cs">
+      <DependentUpon>HCM120002.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\ComboboxValueDescriptionPair.cs" />
+    <Compile Include="Utility\CommonUtility.cs" />
+    <Compile Include="Utility\PrinterSettingsHistoryInfo.cs" />
+    <Compile Include="Utility\VesselHistoryInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="HCM119.resx">
+      <DependentUpon>HCM119.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM120.resx">
+      <DependentUpon>HCM120.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM118.resx">
+      <DependentUpon>HCM118.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM117.resx">
+      <DependentUpon>HCM117.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM116.resx">
+      <DependentUpon>HCM116.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM115.resx">
+      <DependentUpon>HCM115.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM114.resx">
+      <DependentUpon>HCM114.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM113.resx">
+      <DependentUpon>HCM113.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM112.resx">
+      <DependentUpon>HCM112.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM111.resx">
+      <DependentUpon>HCM111.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM110.resx">
+      <DependentUpon>HCM110.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM109.resx">
+      <DependentUpon>HCM109.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM101.resx">
+      <DependentUpon>HCM101.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM102.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM102.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM103.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM103.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM104.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM104.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM105.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM105.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM106.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM106.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM107.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM107.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM108.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM108.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM120001.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM120001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HCM120002.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HCM120002.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Framework.Client\Framework.Client.csproj">
+      <Project>{EFA8BC2B-AB1C-4297-972A-5129A90785DB}</Project>
+      <Name>Framework.Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Common\Framework.Common.csproj">
+      <Project>{86A336BB-29CD-4F7E-A5BE-804C98808025}</Project>
+      <Name>Framework.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Controls\Framework.Controls.csproj">
+      <Project>{0A5EFC54-E023-46ED-8715-D3B547438AE5}</Project>
+      <Name>Framework.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Service.Provider\Framework.Service.Provider.csproj">
+      <Project>{E71E7988-CBC1-47A6-AB58-84A4A51548B4}</Project>
+      <Name>Framework.Service.Provider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.Client.Proxy\MOST.Client.Proxy.csproj">
+      <Project>{B85F2721-53F7-4B17-B5AA-4597E662B3F7}</Project>
+      <Name>MOST.Client.Proxy</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\DataSources\MOST.Common.CommonResult.ManPowerList.datasource" />
+    <None Include="Properties\DataSources\MOST.Common.CommonResult.PortCraneList.datasource" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,294 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F517CDA1-9508-4F36-876B-FC9B1AFFD133}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MOST.WHChecker</RootNamespace>
+    <AssemblyName>MOST.WHChecker</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>MPTS.WHChecker</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\mscorlib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Drawing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Windows.Forms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\System.Xml.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HWC101003.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HWC101003.Designer.cs">
+      <DependentUpon>HWC101003.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC101004.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HWC101004.Designer.cs">
+      <DependentUpon>HWC101004.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC101005.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HWC101005.Designer.cs">
+      <DependentUpon>HWC101005.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC101006.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HWC101006.Designer.cs">
+      <DependentUpon>HWC101006.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC109.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC109.designer.cs">
+      <DependentUpon>HWC109.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC108.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC108.designer.cs">
+      <DependentUpon>HWC108.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC107.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC107.designer.cs">
+      <DependentUpon>HWC107.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC106.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC106.designer.cs">
+      <DependentUpon>HWC106.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC105.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC105.designer.cs">
+      <DependentUpon>HWC105.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC104.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC104.designer.cs">
+      <DependentUpon>HWC104.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC103.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC103.designer.cs">
+      <DependentUpon>HWC103.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC102.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC102.designer.cs">
+      <DependentUpon>HWC102.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC101001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC101001.designer.cs">
+      <DependentUpon>HWC101001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC101002.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC101002.designer.cs">
+      <DependentUpon>HWC101002.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HWC101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HWC101.designer.cs">
+      <DependentUpon>HWC101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Item\WHLocationItem.cs" />
+    <Compile Include="Result\Parm\HWC109Parm.cs" />
+    <Compile Include="Result\Parm\HWC107Parm.cs" />
+    <Compile Include="Result\Parm\HWC108Parm.cs" />
+    <Compile Include="Result\Parm\HWC106Parm.cs" />
+    <Compile Include="Result\Parm\HWC105Parm.cs" />
+    <Compile Include="Result\Parm\HWC104Parm.cs" />
+    <Compile Include="Result\Parm\HWC101Parm.cs" />
+    <Compile Include="Result\Parm\HWC101002Parm.cs" />
+    <Compile Include="Result\Parm\HWC102Parm.cs" />
+    <Compile Include="Result\Parm\HWC101001Parm.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="HWC101003.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HWC101003.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC101004.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HWC101004.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC109.resx">
+      <DependentUpon>HWC109.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC108.resx">
+      <DependentUpon>HWC108.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC107.resx">
+      <DependentUpon>HWC107.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC106.resx">
+      <DependentUpon>HWC106.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC105.resx">
+      <DependentUpon>HWC105.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC104.resx">
+      <DependentUpon>HWC104.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC103.resx">
+      <DependentUpon>HWC103.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC102.resx">
+      <DependentUpon>HWC102.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC101001.resx">
+      <DependentUpon>HWC101001.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC101002.resx">
+      <DependentUpon>HWC101002.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWC101.resx">
+      <DependentUpon>HWC101.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Result\HWC101Result.cs" />
+    <Compile Include="Result\HWC101002Result.cs" />
+    <Compile Include="Result\HWC101001Result.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Framework.Client\Framework.Client.csproj">
+      <Project>{EFA8BC2B-AB1C-4297-972A-5129A90785DB}</Project>
+      <Name>Framework.Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Common\Framework.Common.csproj">
+      <Project>{86A336BB-29CD-4F7E-A5BE-804C98808025}</Project>
+      <Name>Framework.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Controls\Framework.Controls.csproj">
+      <Project>{0A5EFC54-E023-46ED-8715-D3B547438AE5}</Project>
+      <Name>Framework.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Service.Provider\Framework.Service.Provider.csproj">
+      <Project>{E71E7988-CBC1-47A6-AB58-84A4A51548B4}</Project>
+      <Name>Framework.Service.Provider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.Client.Proxy\MOST.Client.Proxy.csproj">
+      <Project>{B85F2721-53F7-4B17-B5AA-4597E662B3F7}</Project>
+      <Name>MOST.Client.Proxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MOST.Common\MOST.Common.csproj">
+      <Project>{BB94416E-3C84-4781-8F81-65EC0A84C857}</Project>
+      <Name>MOST.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
